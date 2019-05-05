@@ -5,6 +5,7 @@ Numerical Methods for PDE Constrained Optimization (Preconditioning Iterative Me
 Step 1 Pre-process step: information of the nodal element and indices
 
 Step 2 Process step: 
+
 1-Compute the stiffness matrix and load vector of the elements 
 2- Assemble the global stiffness matrix and global load vector 
 3-Deal with the boundary condition 
